@@ -15,7 +15,7 @@ func homeHandler(w http.ResponseWriter, r *http.Request) {
 </head>
 <body>
     <h1>Welcome to Go Web App</h1>
-    <p>This is a simple Go web application!  mzgs test</p>
+    <p>This is a simple Go web application!  mzgs test222222</p>
     <p>Current path: %s</p>
 </body>
 </html>
